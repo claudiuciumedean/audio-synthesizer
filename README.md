@@ -3,4 +3,4 @@
 A simple synthesizer built using the Web Audio API
 
 # Instructions
-Open index.html and have a little bit of fun!
+Open index.html, play the small organ with your keyboard and have a little bit of fun!
